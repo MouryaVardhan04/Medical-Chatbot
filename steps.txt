@@ -1,4 +1,15 @@
+============= Git Repository ===========
+
 1. clone the repository "git clone https://github.com/MouryaVardhan04/Medical-Chatbot.git"
 
+============= Project Template ===========
 2. create a template.sh for generating the structure of the project
    sh template.sh 
+
+============= creating the virtual environment ===========
+3. conda create -n medibot python=3.10 -y
+4. conda activate medibot
+
+============= Install the requirements ===========
+5. initialize the setup
+5. pip install -r requirements.txt
