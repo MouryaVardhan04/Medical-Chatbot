@@ -1,8 +1,8 @@
-from langchain.document_loaders import PyPDFLoader, DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from typing import List
-from langchain.schema import Document
+from langchain.document_loaders import PyPDFLoader, DirectoryLoader #type:ignore
+from langchain.text_splitter import RecursiveCharacterTextSplitter #type:ignore
+from langchain.embeddings import HuggingFaceEmbeddings #type:ignore
+from typing import List #type:ignore
+from langchain.schema import Document #type:ignore
 
 
 #Extract Data From the PDF File
