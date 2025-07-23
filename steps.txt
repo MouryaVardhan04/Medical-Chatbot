@@ -1,0 +1,4 @@
+1. clone the repository "git clone https://github.com/MouryaVardhan04/Medical-Chatbot.git"
+
+2. create a template.sh for generating the structure of the project
+   sh template.sh 
